@@ -1,3 +1,5 @@
+Fork for 1.21.1 update :)
+
 <p align="center">
   <img width="200" src="https://github.com/Kryeit/Votifier/blob/1.20.4/src/main/resources/assets/votifier/icon.png">
 </p>
